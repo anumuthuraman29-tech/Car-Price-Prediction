@@ -58,6 +58,17 @@ Car-Price-Prediction/
 ## 📈 Expected Outcome
 The trained Machine Learning model predicts the estimated selling price of a used car based on its input features.
 
+📁 Dataset
+The dataset used for this project can be accessed through the following link:
+
+Click here to download the Airbnb Dataset
+
+The dataset contains Airbnb listing information used for data preprocessing, exploratory data analysis, visualization, and price prediction.
+
+Alternative short version:
+
+Dataset: [Airbnb Dataset]-https://www.kaggle.com/datasets/aminesnoussi/carprice-assignmentcsv
+
 ## 👩‍💻 Author
 ANU M.
 BCA Student | Aspiring AI & Machine Learning Professional
